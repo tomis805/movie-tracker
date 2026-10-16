@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-16T12:51:13.556Z",
+  "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
+  "movies": [
+    {
+      "title": "Hitch",
+      "year": 2005,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Liked",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 8488,
+      "poster_path": "/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg"
+    },
+    {
+      "title": "Crazy, Stupid, Love",
+      "year": 2011,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Liked",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 50646,
+      "poster_path": "/p4RafgAPk558muOjnBMHhMArjS2.jpg"
+    },
+    {
+      "title": "The Girl Next Door",
+      "year": 2004,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Liked",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 10591,
+      "poster_path": "/5mVyFHSY2rSsNgD4NfEwV82HigU.jpg"
+    },
+    {
+      "title": "What Women Want",
+      "year": 2000,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Liked",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 3981,
+      "poster_path": "/eqkBEMDk1316Yx5wVoabWY07JAi.jpg"
+    },
+    {
+      "title": "McFarland, USA",
+      "year": 2015,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Liked",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 228203,
+      "poster_path": "/yyhniD8A7Mv6SOn8oo1Ba2K0mKc.jpg"
+    },
+    {
+      "title": "She's Out of My League",
+      "year": 2010,
+      "media_type": "movie",
+      "status": "Suggested",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
+      "tmdb_id": 34016,
+      "poster_path": "/mpYHjyPX0DAxbsnWKmSK5jZ1s4T.jpg"
+    },
+    {
+      "title": "40 Days and 40 Nights",
+      "year": 2002,
+      "media_type": "movie",
+      "status": "Suggested",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
+      "tmdb_id": 2752,
+      "poster_path": "/pQTZX4gOEEkkMVFIRWtIrCpozeu.jpg"
+    },
+    {
+      "title": "Love Don’t Cost a Thing",
+      "year": 2003,
+      "media_type": "movie",
+      "status": "Suggested",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "Carried over from the earlier conversation; viewing status unconfirmed."
+    },
+    {
+      "title": "Wedding Crashers",
+      "year": 2005,
+      "media_type": "movie",
+      "status": "Suggested",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
+      "tmdb_id": 9522,
+      "poster_path": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg"
+    },
+    {
+      "title": "The Perfect Score",
+      "year": 2004,
+      "media_type": "movie",
+      "status": "Suggested",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
+      "tmdb_id": 13505,
+      "poster_path": "/xflTliVBvCztaLzTJx9luHnSqwD.jpg"
+    },
+    {
+      "title": "Along Came Polly",
+      "year": 2004,
+      "media_type": "movie",
+      "status": "Suggested",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
+      "tmdb_id": 5966,
+      "poster_path": "/7Tp16THdpHkMrqgoiDresDz9CWL.jpg"
+    },
+    {
+      "title": "The Change-Up",
+      "year": 2011,
+      "media_type": "movie",
+      "status": "Suggested",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
+      "tmdb_id": 49520,
+      "poster_path": "/iV6ARQZyGpjygtzFMdWH9U1Lj9x.jpg"
+    },
+    {
+      "title": "Just Married",
+      "year": 2003,
+      "media_type": "movie",
+      "status": "Suggested",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
+      "tmdb_id": 12090,
+      "poster_path": "/FRqnYDjbstsCgLSJJ3SifOh2ca.jpg"
+    },
+    {
+      "title": "American Pie",
+      "year": 1999,
+      "media_type": "movie",
+      "status": "Suggested",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
+      "tmdb_id": 2105,
+      "poster_path": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg"
+    }
+  ]
+}
