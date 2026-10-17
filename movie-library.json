@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:02:42.172Z",
+  "updated_at": "2026-10-17T10:08:53.192Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -1322,6 +1322,28 @@
       "notes": "",
       "tmdb_id": 91314,
       "poster_path": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg"
+    },
+    {
+      "title": "ONE PIECE",
+      "year": 2023,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 111110,
+      "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg"
+    },
+    {
+      "title": "One Piece",
+      "year": 1999,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 37854,
+      "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg"
     }
   ]
 }
