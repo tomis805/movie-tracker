@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:42:57.341Z",
+  "updated_at": "2026-10-17T10:43:52.877Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -3003,6 +3003,80 @@
         "genres": [
           "animation",
           "comedy"
+        ]
+      }
+    },
+    {
+      "title": "The Grand Tour",
+      "year": 2016,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 67557,
+      "poster_path": "/3Pcqu6QliBWJ8vsOVClVLddPnZw.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:67557",
+        "genres": [
+          "comedy",
+          "reality",
+          "talk"
+        ]
+      }
+    },
+    {
+      "title": "The Grand Tour",
+      "year": 2026,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 329471,
+      "poster_path": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:329471",
+        "genres": [
+          "reality"
+        ]
+      }
+    },
+    {
+      "title": "The Grand-ish Tour",
+      "year": 2026,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 321267,
+      "poster_path": "/cPvIgIgysI3S067aA670pMYAjI4.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:321267",
+        "genres": [
+          "reality"
+        ]
+      }
+    },
+    {
+      "title": "The Not Very Grand Tour",
+      "year": 2025,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 286439,
+      "poster_path": "/aKAz1l3x6hYCu2UqBVqiDRhc6Gt.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:286439",
+        "genres": [
+          "reality"
         ]
       }
     }
