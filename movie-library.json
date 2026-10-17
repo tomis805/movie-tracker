@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-17T11:16:03.494Z",
+  "updated_at": "2026-10-17T11:19:06.375Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -4951,6 +4951,191 @@
           "comedy",
           "family",
           "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "The Shadow's Edge",
+      "year": 2025,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1419406,
+      "poster_path": "/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1419406",
+        "genres": [
+          "action",
+          "crime",
+          "drama",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "The Prestige",
+      "year": 2006,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1124,
+      "poster_path": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1124",
+        "genres": [
+          "drama",
+          "mystery",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "WALL·E",
+      "year": 2008,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 10681,
+      "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:10681",
+        "genres": [
+          "animation",
+          "family",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "The Imitation Game",
+      "year": 2014,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 205596,
+      "poster_path": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:205596",
+        "genres": [
+          "drama",
+          "history",
+          "thriller",
+          "war"
+        ]
+      }
+    },
+    {
+      "title": "I Am Legend",
+      "year": 2007,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 6479,
+      "poster_path": "/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:6479",
+        "genres": [
+          "drama",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Despicable Me",
+      "year": 2010,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 20352,
+      "poster_path": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:20352",
+        "genres": [
+          "animation",
+          "comedy",
+          "crime",
+          "family",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Beverly Hills Cop",
+      "year": 1984,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 90,
+      "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:90",
+        "genres": [
+          "action",
+          "comedy",
+          "crime"
+        ]
+      }
+    },
+    {
+      "title": "Despicable Me 2",
+      "year": 2013,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 93456,
+      "poster_path": "/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:93456",
+        "genres": [
+          "animation",
+          "comedy",
+          "family",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "World War Z",
+      "year": 2013,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 72190,
+      "poster_path": "/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:72190",
+        "genres": [
+          "action",
+          "horror",
+          "sciencefiction"
         ]
       }
     }
