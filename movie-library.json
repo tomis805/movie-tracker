@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-17T11:20:03.271Z",
+  "updated_at": "2026-10-17T11:24:29.988Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -5135,6 +5135,214 @@
         "genres": [
           "action",
           "horror",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Attack on Titan",
+      "year": 2013,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1429,
+      "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1429",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "The Sopranos",
+      "year": 1999,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1398,
+      "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1398",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Solo Leveling",
+      "year": 2024,
+      "media_type": "tv",
+      "status": "Watchlist",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 127532,
+      "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:127532",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "The Wire",
+      "year": 2002,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1438,
+      "poster_path": "/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1438",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Teen Wolf",
+      "year": 2011,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 34524,
+      "poster_path": "/wjKBTcNy1xihmExqJI8kM2qvavP.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:34524",
+        "genres": [
+          "comedy",
+          "drama",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Dexter",
+      "year": 2006,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1405,
+      "poster_path": "/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1405",
+        "genres": [
+          "crime",
+          "drama",
+          "mystery"
+        ]
+      }
+    },
+    {
+      "title": "Castle",
+      "year": 2009,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1419,
+      "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1419",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "True Blood",
+      "year": 2008,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 10545,
+      "poster_path": "/ktEp6fzL4xzCWsSVtrcH8JaQNQy.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:10545",
+        "genres": [
+          "drama",
+          "fantasy",
+          "mystery",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Knight Rider",
+      "year": 1982,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 2384,
+      "poster_path": "/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:2384",
+        "genres": [
+          "action",
+          "adventure",
+          "crime",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Percy Jackson and the Olympians",
+      "year": 2023,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 103540,
+      "poster_path": "/bd5ZIqiz1PRiLC7FLexzVBf8qu1.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:103540",
+        "genres": [
+          "action",
+          "adventure",
+          "drama",
+          "family",
+          "fantasy",
           "sciencefiction"
         ]
       }
