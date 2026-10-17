@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T09:34:27.563Z",
+  "updated_at": "2026-10-17T09:35:54.334Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -385,6 +385,39 @@
       "notes": "",
       "tmdb_id": 872585,
       "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+    },
+    {
+      "title": "No Hard Feelings",
+      "year": 2023,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 884605,
+      "poster_path": "/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg"
+    },
+    {
+      "title": "Blockers",
+      "year": 2018,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 437557,
+      "poster_path": "/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg"
+    },
+    {
+      "title": "Booksmart",
+      "year": 2019,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 505600,
+      "poster_path": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg"
     }
   ]
 }
