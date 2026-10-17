@@ -1,4 +1,5 @@
 {
+  "taste_preferences": {},
   "schema_version": 1,
   "updated_at": "2026-10-17T10:19:13.858Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
@@ -2663,112 +2664,160 @@
         "negative": 3,
         "movie": 19,
         "tv": 4,
-        "affinity": 0.5973154362416108
+        "affinity": 0.5973154362416108,
+        "learned_affinity": 0.5973154362416108,
+        "preference": "auto",
+        "avoided": false
       },
       "drama": {
         "positive": 28.73333333333333,
         "negative": 0,
         "movie": 10,
         "tv": 19,
-        "affinity": 0.9349240780911063
+        "affinity": 0.9349240780911063,
+        "learned_affinity": 0.9349240780911063,
+        "preference": "auto",
+        "avoided": false
       },
       "romance": {
         "positive": 4.833333333333333,
         "negative": 1,
         "movie": 6,
         "tv": 0,
-        "affinity": 0.48936170212765956
+        "affinity": 0.48936170212765956,
+        "learned_affinity": 0.48936170212765956,
+        "preference": "auto",
+        "avoided": false
       },
       "family": {
         "positive": 1.95,
         "negative": 0,
         "movie": 5,
         "tv": 0,
-        "affinity": 0.49367088607594933
+        "affinity": 0.49367088607594933,
+        "learned_affinity": 0.49367088607594933,
+        "preference": "auto",
+        "avoided": false
       },
       "history": {
         "positive": 2.5,
         "negative": 0,
         "movie": 2,
         "tv": 0,
-        "affinity": 0.5555555555555556
+        "affinity": 0.5555555555555556,
+        "learned_affinity": 0.5555555555555556,
+        "preference": "auto",
+        "avoided": false
       },
       "fantasy": {
         "positive": 10.599999999999998,
         "negative": 0,
         "movie": 13,
         "tv": 13,
-        "affinity": 0.8412698412698413
+        "affinity": 0.8412698412698413,
+        "learned_affinity": 0.8412698412698413,
+        "preference": "auto",
+        "avoided": false
       },
       "mystery": {
         "positive": 1.7333333333333332,
         "negative": 0,
         "movie": 1,
         "tv": 4,
-        "affinity": 0.46428571428571425
+        "affinity": 0.46428571428571425,
+        "learned_affinity": 0.46428571428571425,
+        "preference": "auto",
+        "avoided": false
       },
       "sciencefiction": {
         "positive": 38.91666666666667,
         "negative": 0,
         "movie": 63,
         "tv": 13,
-        "affinity": 0.9511201629327902
+        "affinity": 0.9511201629327902,
+        "learned_affinity": 0.9511201629327902,
+        "preference": "auto",
+        "avoided": false
       },
       "action": {
         "positive": 38.36666666666666,
         "negative": 0,
         "movie": 67,
         "tv": 11,
-        "affinity": 0.9504541701073493
+        "affinity": 0.9504541701073493,
+        "learned_affinity": 0.9504541701073493,
+        "preference": "auto",
+        "avoided": false
       },
       "adventure": {
         "positive": 36.66666666666666,
         "negative": 0,
         "movie": 62,
         "tv": 11,
-        "affinity": 0.9482758620689655
+        "affinity": 0.9482758620689655,
+        "learned_affinity": 0.9482758620689655,
+        "preference": "auto",
+        "avoided": false
       },
       "thriller": {
         "positive": 3.1166666666666663,
         "negative": 0,
         "movie": 6,
         "tv": 0,
-        "affinity": 0.6091205211726384
+        "affinity": 0.6091205211726384,
+        "learned_affinity": 0.6091205211726384,
+        "preference": "auto",
+        "avoided": false
       },
       "animation": {
         "positive": 3.8000000000000003,
         "negative": 0,
         "movie": 4,
         "tv": 8,
-        "affinity": 0.6551724137931034
+        "affinity": 0.6551724137931034,
+        "learned_affinity": 0.6551724137931034,
+        "preference": "auto",
+        "avoided": false
       },
       "crime": {
         "positive": 9.25,
         "negative": 0,
         "movie": 1,
         "tv": 9,
-        "affinity": 0.8222222222222222
+        "affinity": 0.8222222222222222,
+        "learned_affinity": 0.8222222222222222,
+        "preference": "auto",
+        "avoided": false
       },
       "western": {
         "positive": 3,
         "negative": 0,
         "movie": 0,
         "tv": 2,
-        "affinity": 0.6
+        "affinity": 0.6,
+        "learned_affinity": 0.6,
+        "preference": "auto",
+        "avoided": false
       },
       "war": {
         "positive": 0.3333333333333333,
         "negative": 0,
         "movie": 0,
         "tv": 1,
-        "affinity": 0.14285714285714285
+        "affinity": 0.14285714285714285,
+        "learned_affinity": 0.14285714285714285,
+        "preference": "auto",
+        "avoided": false
       },
       "politics": {
         "positive": 0.3333333333333333,
         "negative": 0,
         "movie": 0,
         "tv": 1,
-        "affinity": 0.14285714285714285
+        "affinity": 0.14285714285714285,
+        "learned_affinity": 0.14285714285714285,
+        "preference": "auto",
+        "avoided": false
       }
     },
     "contributions": {
@@ -3830,6 +3879,7 @@
         ]
       }
     },
+    "manual_count": 0,
     "pending": 0,
     "movie_count": 87,
     "series_count": 30,
