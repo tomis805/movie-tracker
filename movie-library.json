@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:15:08.691Z",
+  "updated_at": "2026-10-17T10:17:05.186Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -2018,6 +2018,296 @@
           "drama",
           "war",
           "politics"
+        ]
+      }
+    },
+    {
+      "title": "Game of Thrones",
+      "year": 2011,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1399,
+      "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1399",
+        "genres": [
+          "action",
+          "adventure",
+          "drama",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Regular Show",
+      "year": 2010,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 31132,
+      "poster_path": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:31132",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "comedy",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Rick and Morty",
+      "year": 2013,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 60625,
+      "poster_path": "/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:60625",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "comedy",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Stranger Things",
+      "year": 2016,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 66732,
+      "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:66732",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy",
+          "mystery",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Naruto",
+      "year": 2002,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 46260,
+      "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:46260",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Pokémon",
+      "year": 1997,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 60572,
+      "poster_path": "/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:60572",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Prison Break",
+      "year": 2005,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 2288,
+      "poster_path": "/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:2288",
+        "genres": [
+          "action",
+          "adventure",
+          "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Reacher",
+      "year": 2022,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 108978,
+      "poster_path": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:108978",
+        "genres": [
+          "action",
+          "adventure",
+          "crime"
+        ]
+      }
+    },
+    {
+      "title": "The Flash",
+      "year": 2014,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 60735,
+      "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:60735",
+        "genres": [
+          "drama",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Bones",
+      "year": 2005,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1911,
+      "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1911",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "The Rookie",
+      "year": 2018,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 79744,
+      "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:79744",
+        "genres": [
+          "comedy",
+          "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Shameless",
+      "year": 2011,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 34307,
+      "poster_path": "/Yi3WVT6hOkPahOwwvmLmif1jhs.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:34307",
+        "genres": [
+          "comedy",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Ted Lasso",
+      "year": 2020,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 97546,
+      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:97546",
+        "genres": [
+          "comedy",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "House",
+      "year": 2004,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1408,
+      "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1408",
+        "genres": [
+          "drama"
         ]
       }
     }
