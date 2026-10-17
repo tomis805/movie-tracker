@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:19:13.858Z",
+  "updated_at": "2026-10-17T10:28:24.737Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -2651,6 +2651,102 @@
         "source": "tv:1408",
         "genres": [
           "drama"
+        ]
+      }
+    },
+    {
+      "title": "The Odyssey",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1368337,
+      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1368337",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "F1",
+      "year": 2025,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 911430,
+      "poster_path": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:911430",
+        "genres": [
+          "action",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Mutiny",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1288445,
+      "poster_path": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1288445",
+        "genres": [
+          "action",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Heart of the Beast",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1263337,
+      "poster_path": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1263337",
+        "genres": [
+          "adventure",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "War of the Worlds",
+      "year": 2025,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 755898,
+      "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:755898",
+        "genres": [
+          "sciencefiction",
+          "thriller"
         ]
       }
     }
