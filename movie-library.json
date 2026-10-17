@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:50:25.820Z",
+  "updated_at": "2026-10-17T10:51:04.372Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -3085,7 +3085,7 @@
       "year": 2007,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 285,
@@ -3105,7 +3105,7 @@
       "year": 1990,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 769,
@@ -3124,7 +3124,7 @@
       "year": 2019,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 496243,
@@ -3144,7 +3144,7 @@
       "year": 1993,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 424,
@@ -3164,7 +3164,7 @@
       "year": 1999,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 497,
@@ -3184,7 +3184,7 @@
       "year": 1974,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 240,
@@ -3203,7 +3203,7 @@
       "year": 1972,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 238,
@@ -3223,22 +3223,22 @@
     "engine": "gentle-genres-v2",
     "genres": {
       "comedy": {
-        "positive": 6.225,
+        "positive": 6.558333333333333,
         "negative": 0.22499999999999998,
-        "movie": 19,
+        "movie": 20,
         "tv": 6,
-        "affinity": 0.06228373702422145,
-        "learned_affinity": 0.06228373702422145,
+        "affinity": 0.06426155580608794,
+        "learned_affinity": 0.06426155580608794,
         "preference": "auto",
         "avoided": false
       },
       "drama": {
-        "positive": 11.491666666666665,
+        "positive": 13.408333333333331,
         "negative": 0,
-        "movie": 12,
+        "movie": 18,
         "tv": 19,
-        "affinity": 0.08843522873022658,
-        "learned_affinity": 0.08843522873022658,
+        "affinity": 0.09394706111327364,
+        "learned_affinity": 0.09394706111327364,
         "preference": "auto",
         "avoided": false
       },
@@ -3263,22 +3263,22 @@
         "avoided": false
       },
       "history": {
-        "positive": 0.8333333333333333,
+        "positive": 0.9999999999999999,
         "negative": 0,
-        "movie": 2,
+        "movie": 3,
         "tv": 0,
-        "affinity": 0.014150943396226412,
-        "learned_affinity": 0.014150943396226412,
+        "affinity": 0.016666666666666663,
+        "learned_affinity": 0.016666666666666663,
         "preference": "auto",
         "avoided": false
       },
       "fantasy": {
-        "positive": 5.674999999999999,
+        "positive": 6.174999999999999,
         "negative": 0,
-        "movie": 17,
+        "movie": 19,
         "tv": 14,
-        "affinity": 0.06224862888482632,
-        "learned_affinity": 0.06224862888482632,
+        "affinity": 0.06534391534391533,
+        "learned_affinity": 0.06534391534391533,
         "preference": "auto",
         "avoided": false
       },
@@ -3303,32 +3303,32 @@
         "avoided": false
       },
       "action": {
-        "positive": 18.016666666666666,
+        "positive": 18.349999999999998,
         "negative": 0,
-        "movie": 73,
+        "movie": 74,
         "tv": 12,
-        "affinity": 0.10387572069186418,
-        "learned_affinity": 0.10387572069186418,
+        "affinity": 0.10445920303605312,
+        "learned_affinity": 0.10445920303605312,
         "preference": "auto",
         "avoided": false
       },
       "adventure": {
-        "positive": 16.458333333333336,
+        "positive": 16.791666666666668,
         "negative": 0,
-        "movie": 67,
+        "movie": 68,
         "tv": 12,
-        "affinity": 0.10093696763202727,
-        "learned_affinity": 0.10093696763202727,
+        "affinity": 0.10159663865546219,
+        "learned_affinity": 0.10159663865546219,
         "preference": "auto",
         "avoided": false
       },
       "thriller": {
-        "positive": 3.225,
+        "positive": 3.5583333333333336,
         "negative": 0.075,
-        "movie": 13,
+        "movie": 14,
         "tv": 0,
-        "affinity": 0.04181415929203539,
-        "learned_affinity": 0.04181415929203539,
+        "affinity": 0.04491404011461318,
+        "learned_affinity": 0.04491404011461318,
         "preference": "auto",
         "avoided": false
       },
@@ -3343,12 +3343,12 @@
         "avoided": false
       },
       "crime": {
-        "positive": 4.041666666666667,
+        "positive": 5.458333333333334,
         "negative": 0,
-        "movie": 3,
+        "movie": 7,
         "tv": 9,
-        "affinity": 0.050346020761245676,
-        "learned_affinity": 0.050346020761245676,
+        "affinity": 0.0608359133126935,
+        "learned_affinity": 0.0608359133126935,
         "preference": "auto",
         "avoided": false
       },
@@ -3363,12 +3363,12 @@
         "avoided": false
       },
       "war": {
-        "positive": 0.16666666666666666,
+        "positive": 0.3333333333333333,
         "negative": 0,
-        "movie": 0,
+        "movie": 1,
         "tv": 1,
-        "affinity": 0.003061224489795918,
-        "learned_affinity": 0.003061224489795918,
+        "affinity": 0.005999999999999999,
+        "learned_affinity": 0.005999999999999999,
         "preference": "auto",
         "avoided": false
       },
@@ -4627,18 +4627,78 @@
         "genres": [
           "reality"
         ]
+      },
+      "movie:285": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      },
+      "movie:769": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      },
+      "movie:496243": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "comedy",
+          "drama",
+          "thriller"
+        ]
+      },
+      "movie:424": {
+        "type": "movie",
+        "weight": 0.5,
+        "genres": [
+          "drama",
+          "history",
+          "war"
+        ]
+      },
+      "movie:497": {
+        "type": "movie",
+        "weight": 0.5,
+        "genres": [
+          "crime",
+          "drama",
+          "fantasy"
+        ]
+      },
+      "movie:240": {
+        "type": "movie",
+        "weight": 0.5,
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      },
+      "movie:238": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "crime",
+          "drama"
+        ]
       }
     },
     "manual_count": 0,
     "pending": 0,
-    "movie_count": 100,
+    "movie_count": 107,
     "series_count": 36,
     "summary": [
       "Action",
       "Adventure",
       "Science fiction",
       "Drama",
-      "Comedy"
+      "Fantasy"
     ]
   }
 }
