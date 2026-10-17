@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T09:43:17.054Z",
+  "updated_at": "2026-10-17T09:44:24.174Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -770,6 +770,39 @@
       "notes": "",
       "tmdb_id": 453405,
       "poster_path": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg"
+    },
+    {
+      "title": "Gotham",
+      "year": 2014,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 60708,
+      "poster_path": "/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg"
+    },
+    {
+      "title": "Grimm",
+      "year": 2011,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 39351,
+      "poster_path": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg"
+    },
+    {
+      "title": "Titans",
+      "year": 2018,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 75450,
+      "poster_path": "/8e6QiSexmYKaiHGPvbhaFMmQEhc.jpg"
     }
   ]
 }
