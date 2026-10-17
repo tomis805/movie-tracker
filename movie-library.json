@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:51:04.372Z",
+  "updated_at": "2026-10-17T10:56:37.081Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -3212,6 +3212,384 @@
         "version": 1,
         "source": "movie:238",
         "genres": [
+          "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "The Boys",
+      "year": 2019,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 76479,
+      "poster_path": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:76479",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Adventure Time",
+      "year": 2010,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 15260,
+      "poster_path": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:15260",
+        "genres": [
+          "animation",
+          "comedy",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Dragon Ball Z",
+      "year": 1989,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 12971,
+      "poster_path": "/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:12971",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "The Vampire Diaries",
+      "year": 2009,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 18165,
+      "poster_path": "/gbp4zM0FE0n23X4UFY5EBlacrog.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:18165",
+        "genres": [
+          "drama",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Vikings",
+      "year": 2013,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 44217,
+      "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:44217",
+        "genres": [
+          "action",
+          "adventure",
+          "drama",
+          "war",
+          "politics"
+        ]
+      }
+    },
+    {
+      "title": "Chernobyl",
+      "year": 2019,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 87108,
+      "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:87108",
+        "genres": [
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Avatar: The Last Airbender",
+      "year": 2005,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 246,
+      "poster_path": "/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:246",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Arcane",
+      "year": 2021,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 94605,
+      "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:94605",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "year": 2009,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 31911,
+      "poster_path": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:31911",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "drama",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "INVINCIBLE",
+      "year": 2021,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 95557,
+      "poster_path": "/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:95557",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "drama",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Hunter x Hunter",
+      "year": 2011,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 46298,
+      "poster_path": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:46298",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Naruto Shippūden",
+      "year": 2007,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 31910,
+      "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:31910",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Futurama",
+      "year": 1999,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 615,
+      "poster_path": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:615",
+        "genres": [
+          "animation",
+          "comedy",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Wednesday",
+      "year": 2022,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 119051,
+      "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:119051",
+        "genres": [
+          "comedy",
+          "fantasy",
+          "mystery",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Loki",
+      "year": 2021,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 84958,
+      "poster_path": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:84958",
+        "genres": [
+          "drama",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "South Park",
+      "year": 1997,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 2190,
+      "poster_path": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:2190",
+        "genres": [
+          "animation",
+          "comedy"
+        ]
+      }
+    },
+    {
+      "title": "Modern Family",
+      "year": 2009,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1421,
+      "poster_path": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1421",
+        "genres": [
+          "comedy"
+        ]
+      }
+    },
+    {
+      "title": "Marshals",
+      "year": 2026,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 290856,
+      "poster_path": "/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:290856",
+        "genres": [
+          "action",
+          "adventure",
           "crime",
           "drama"
         ]
