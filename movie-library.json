@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-17T11:08:38.536Z",
+  "updated_at": "2026-10-17T11:14:02.471Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -4030,6 +4030,927 @@
           "action",
           "adventure",
           "drama"
+        ]
+      }
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 680,
+      "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:680",
+        "genres": [
+          "comedy",
+          "crime",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 550,
+      "poster_path": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:550",
+        "genres": [
+          "drama",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Howl's Moving Castle",
+      "year": 2004,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 4935,
+      "poster_path": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:4935",
+        "genres": [
+          "adventure",
+          "animation",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 603,
+      "poster_path": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:603",
+        "genres": [
+          "action",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Whiplash",
+      "year": 2014,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 244786,
+      "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:244786",
+        "genres": [
+          "drama",
+          "music",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "The Pianist",
+      "year": 2002,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 423,
+      "poster_path": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:423",
+        "genres": [
+          "drama",
+          "war"
+        ]
+      }
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 807,
+      "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:807",
+        "genres": [
+          "crime",
+          "mystery",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 280,
+      "poster_path": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:280",
+        "genres": [
+          "action",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": 2011,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 12445,
+      "poster_path": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:12445",
+        "genres": [
+          "adventure",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "Logan",
+      "year": 2017,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 263115,
+      "poster_path": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:263115",
+        "genres": [
+          "action",
+          "drama",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Predator: Badlands",
+      "year": 2025,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1242898,
+      "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1242898",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "year": 2025,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1087192,
+      "poster_path": "/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1087192",
+        "genres": [
+          "action",
+          "adventure",
+          "family",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "Dune",
+      "year": 2021,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 438631,
+      "poster_path": "/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:438631",
+        "genres": [
+          "adventure",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Mortal Kombat II",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 931285,
+      "poster_path": "/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:931285",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "The Martian",
+      "year": 2015,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 286217,
+      "poster_path": "/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:286217",
+        "genres": [
+          "adventure",
+          "drama",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 49026,
+      "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:49026",
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 12444,
+      "poster_path": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:12444",
+        "genres": [
+          "adventure",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "Batman Begins",
+      "year": 2005,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 272,
+      "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:272",
+        "genres": [
+          "action",
+          "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 672,
+      "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:672",
+        "genres": [
+          "adventure",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "Finding Nemo",
+      "year": 2003,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 12,
+      "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:12",
+        "genres": [
+          "adventure",
+          "animation",
+          "family"
+        ]
+      }
+    },
+    {
+      "title": "Avatar",
+      "year": 2009,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 19995,
+      "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:19995",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "John Wick: Chapter 4",
+      "year": 2023,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 603692,
+      "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:603692",
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Deadpool",
+      "year": 2016,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 293660,
+      "poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:293660",
+        "genres": [
+          "action",
+          "adventure",
+          "comedy"
+        ]
+      }
+    },
+    {
+      "title": "Shelter",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1290821,
+      "poster_path": "/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1290821",
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "How to Train Your Dragon 2",
+      "year": 2014,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 82702,
+      "poster_path": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:82702",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "family",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "Kingsman: The Secret Service",
+      "year": 2015,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 207703,
+      "poster_path": "/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:207703",
+        "genres": [
+          "action",
+          "comedy",
+          "crime"
+        ]
+      }
+    },
+    {
+      "title": "Treasure Planet",
+      "year": 2002,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 9016,
+      "poster_path": "/kNhZkR3UNbXfvESQo7mJpOi4tGd.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:9016",
+        "genres": [
+          "adventure",
+          "animation",
+          "family",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Fury",
+      "year": 2014,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 228150,
+      "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:228150",
+        "genres": [
+          "action",
+          "drama",
+          "war"
+        ]
+      }
+    },
+    {
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 786892,
+      "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:786892",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "War Machine",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1265609,
+      "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1265609",
+        "genres": [
+          "action",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Baby Driver",
+      "year": 2017,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 339403,
+      "poster_path": "/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:339403",
+        "genres": [
+          "action",
+          "crime"
+        ]
+      }
+    },
+    {
+      "title": "In the Grey",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1122573,
+      "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1122573",
+        "genres": [
+          "action",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Corpse Bride",
+      "year": 2005,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 3933,
+      "poster_path": "/3RAoVTxUk1OzZClscAsynuu670p.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:3933",
+        "genres": [
+          "animation",
+          "fantasy",
+          "romance"
+        ]
+      }
+    },
+    {
+      "title": "The Devil Wears Prada",
+      "year": 2006,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 350,
+      "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:350",
+        "genres": [
+          "comedy",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "The Suicide Squad",
+      "year": 2021,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 436969,
+      "poster_path": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:436969",
+        "genres": [
+          "action",
+          "adventure",
+          "comedy"
+        ]
+      }
+    },
+    {
+      "title": "The Conjuring",
+      "year": 2013,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 138843,
+      "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:138843",
+        "genres": [
+          "horror",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "John Wick: Chapter 2",
+      "year": 2017,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 324552,
+      "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:324552",
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Ballerina",
+      "year": 2025,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 541671,
+      "poster_path": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:541671",
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Mufasa: The Lion King",
+      "year": 2024,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 762509,
+      "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:762509",
+        "genres": [
+          "adventure",
+          "animation",
+          "family"
+        ]
+      }
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "year": 2025,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 575265,
+      "poster_path": "/iKPsC9EFUafRP9SrUznI61getVP.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:575265",
+        "genres": [
+          "action",
+          "adventure",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 954,
+      "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:954",
+        "genres": [
+          "action",
+          "adventure",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "The Lion King",
+      "year": 2019,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 420818,
+      "poster_path": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:420818",
+        "genres": [
+          "adventure",
+          "animation",
+          "drama",
+          "family"
+        ]
+      }
+    },
+    {
+      "title": "The Wrecking Crew",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1168190,
+      "poster_path": "/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1168190",
+        "genres": [
+          "action",
+          "comedy",
+          "crime",
+          "mystery"
+        ]
+      }
+    },
+    {
+      "title": "The Croods",
+      "year": 2013,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 49519,
+      "poster_path": "/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:49519",
+        "genres": [
+          "adventure",
+          "animation",
+          "comedy",
+          "family"
+        ]
+      }
+    },
+    {
+      "title": "Puss in Boots",
+      "year": 2011,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 417859,
+      "poster_path": "/7a5Jzjr9TmffGy76y1SZhn3sCiz.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:417859",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "comedy",
+          "family"
+        ]
+      }
+    },
+    {
+      "title": "Shrek the Third",
+      "year": 2007,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 810,
+      "poster_path": "/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:810",
+        "genres": [
+          "adventure",
+          "animation",
+          "comedy",
+          "family",
+          "fantasy"
         ]
       }
     }
