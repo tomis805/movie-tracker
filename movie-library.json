@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T09:52:22.372Z",
+  "updated_at": "2026-10-17T09:54:44.437Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -882,6 +882,17 @@
       "notes": "",
       "tmdb_id": 6040,
       "poster_path": "/sEocAE3h5iu8CUNhdx1gHan7QJf.jpg"
+    },
+    {
+      "title": "Breaking Bad",
+      "year": 2008,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1396,
+      "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg"
     }
   ]
 }
