@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:08:53.192Z",
+  "updated_at": "2026-10-17T10:09:13.467Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -1344,6 +1344,17 @@
       "notes": "",
       "tmdb_id": 37854,
       "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg"
+    },
+    {
+      "title": "Supernatural",
+      "year": 2005,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1622,
+      "poster_path": "/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg"
     }
   ]
 }
