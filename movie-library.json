@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T09:44:24.174Z",
+  "updated_at": "2026-10-17T09:45:23.553Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -803,6 +803,72 @@
       "notes": "",
       "tmdb_id": 75450,
       "poster_path": "/8e6QiSexmYKaiHGPvbhaFMmQEhc.jpg"
+    },
+    {
+      "title": "Suits",
+      "year": 2011,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 37680,
+      "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg"
+    },
+    {
+      "title": "Peaky Blinders",
+      "year": 2013,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 60574,
+      "poster_path": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+    },
+    {
+      "title": "The Mentalist",
+      "year": 2008,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 5920,
+      "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg"
+    },
+    {
+      "title": "Lucifer",
+      "year": 2016,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 63174,
+      "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg"
+    },
+    {
+      "title": "Batman Beyond",
+      "year": 1999,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 513,
+      "poster_path": "/d01V9s1hjYYJwAeocLNmrhY0ToU.jpg"
+    },
+    {
+      "title": "Batman: The Animated Series",
+      "year": 1992,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 2098,
+      "poster_path": "/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg"
     }
   ]
 }
