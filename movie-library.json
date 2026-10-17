@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:44:30.823Z",
+  "updated_at": "2026-10-17T10:50:25.820Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -3077,6 +3077,143 @@
         "source": "tv:286439",
         "genres": [
           "reality"
+        ]
+      }
+    },
+    {
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 285,
+      "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:285",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "GoodFellas",
+      "year": 1990,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 769,
+      "poster_path": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:769",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Parasite",
+      "year": 2019,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 496243,
+      "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:496243",
+        "genres": [
+          "comedy",
+          "drama",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Schindler's List",
+      "year": 1993,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 424,
+      "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:424",
+        "genres": [
+          "drama",
+          "history",
+          "war"
+        ]
+      }
+    },
+    {
+      "title": "The Green Mile",
+      "year": 1999,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 497,
+      "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:497",
+        "genres": [
+          "crime",
+          "drama",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "The Godfather Part II",
+      "year": 1974,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 240,
+      "poster_path": "/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:240",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 238,
+      "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:238",
+        "genres": [
+          "crime",
+          "drama"
         ]
       }
     }
