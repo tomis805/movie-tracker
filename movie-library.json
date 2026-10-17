@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:09:13.467Z",
+  "updated_at": "2026-10-17T10:10:22.131Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -12,7 +12,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 8488,
-      "poster_path": "/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg"
+      "poster_path": "/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:8488",
+        "genres": [
+          "comedy",
+          "drama",
+          "romance"
+        ]
+      }
     },
     {
       "title": "Crazy, Stupid, Love",
@@ -23,7 +32,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 50646,
-      "poster_path": "/p4RafgAPk558muOjnBMHhMArjS2.jpg"
+      "poster_path": "/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:50646",
+        "genres": [
+          "comedy",
+          "drama",
+          "romance"
+        ]
+      }
     },
     {
       "title": "The Girl Next Door",
@@ -34,7 +52,15 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 10591,
-      "poster_path": "/5mVyFHSY2rSsNgD4NfEwV82HigU.jpg"
+      "poster_path": "/5mVyFHSY2rSsNgD4NfEwV82HigU.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:10591",
+        "genres": [
+          "comedy",
+          "romance"
+        ]
+      }
     },
     {
       "title": "What Women Want",
@@ -45,7 +71,15 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 3981,
-      "poster_path": "/eqkBEMDk1316Yx5wVoabWY07JAi.jpg"
+      "poster_path": "/eqkBEMDk1316Yx5wVoabWY07JAi.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:3981",
+        "genres": [
+          "comedy",
+          "romance"
+        ]
+      }
     },
     {
       "title": "McFarland, USA",
@@ -56,7 +90,15 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 228203,
-      "poster_path": "/yyhniD8A7Mv6SOn8oo1Ba2K0mKc.jpg"
+      "poster_path": "/yyhniD8A7Mv6SOn8oo1Ba2K0mKc.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:228203",
+        "genres": [
+          "drama",
+          "family"
+        ]
+      }
     },
     {
       "title": "She's Out of My League",
@@ -67,7 +109,15 @@
       "rating": null,
       "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
       "tmdb_id": 34016,
-      "poster_path": "/mpYHjyPX0DAxbsnWKmSK5jZ1s4T.jpg"
+      "poster_path": "/mpYHjyPX0DAxbsnWKmSK5jZ1s4T.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:34016",
+        "genres": [
+          "comedy",
+          "romance"
+        ]
+      }
     },
     {
       "title": "The Change-Up",
@@ -78,7 +128,14 @@
       "rating": null,
       "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
       "tmdb_id": 49520,
-      "poster_path": "/iV6ARQZyGpjygtzFMdWH9U1Lj9x.jpg"
+      "poster_path": "/iV6ARQZyGpjygtzFMdWH9U1Lj9x.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:49520",
+        "genres": [
+          "comedy"
+        ]
+      }
     },
     {
       "title": "Green Book",
@@ -89,7 +146,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 490132,
-      "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg"
+      "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:490132",
+        "genres": [
+          "comedy",
+          "drama",
+          "history"
+        ]
+      }
     },
     {
       "title": "Lanterns",
@@ -100,7 +166,17 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 95350,
-      "poster_path": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg"
+      "poster_path": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:95350",
+        "genres": [
+          "drama",
+          "fantasy",
+          "mystery",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Avengers: Endgame",
@@ -111,7 +187,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 299534,
-      "poster_path": "/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg"
+      "poster_path": "/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:299534",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "The Avengers",
@@ -122,7 +207,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 24428,
-      "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
+      "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:24428",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Avengers: Age of Ultron",
@@ -133,7 +227,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 99861,
-      "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
+      "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:99861",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Avengers: Infinity War",
@@ -144,7 +247,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 299536,
-      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:299536",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Iron Man",
@@ -155,7 +267,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 1726,
-      "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
+      "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1726",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Iron Man 2",
@@ -166,7 +287,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 10138,
-      "poster_path": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg"
+      "poster_path": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:10138",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Iron Man 3",
@@ -177,7 +307,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 68721,
-      "poster_path": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg"
+      "poster_path": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:68721",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -188,7 +327,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 969681,
-      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:969681",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Spider-Man",
@@ -199,7 +347,15 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 557,
-      "poster_path": "/or6XJBVpcEbIkma0V9zshnbEtx4.jpg"
+      "poster_path": "/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:557",
+        "genres": [
+          "action",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Spider-Man: Homecoming",
@@ -210,7 +366,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 315635,
-      "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg"
+      "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:315635",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Spider-Man 3",
@@ -221,7 +386,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 559,
-      "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg"
+      "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:559",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "The Amazing Spider-Man",
@@ -232,7 +406,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 1930,
-      "poster_path": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg"
+      "poster_path": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1930",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Spider-Man: No Way Home",
@@ -243,7 +426,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 634649,
-      "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+      "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:634649",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Spider-Man: Far From Home",
@@ -254,7 +446,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 429617,
-      "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg"
+      "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:429617",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Spider-Man 2",
@@ -265,7 +466,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 558,
-      "poster_path": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg"
+      "poster_path": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:558",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "The Amazing Spider-Man 2",
@@ -276,7 +486,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 102382,
-      "poster_path": "/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg"
+      "poster_path": "/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:102382",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Matchbox the Movie",
@@ -298,7 +517,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 157336,
-      "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+      "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:157336",
+        "genres": [
+          "adventure",
+          "drama",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Oppenheimer",
@@ -309,7 +537,15 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 872585,
-      "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:872585",
+        "genres": [
+          "drama",
+          "history"
+        ]
+      }
     },
     {
       "title": "No Hard Feelings",
@@ -320,7 +556,15 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 884605,
-      "poster_path": "/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg"
+      "poster_path": "/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:884605",
+        "genres": [
+          "comedy",
+          "romance"
+        ]
+      }
     },
     {
       "title": "Blockers",
@@ -342,7 +586,14 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 505600,
-      "poster_path": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg"
+      "poster_path": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:505600",
+        "genres": [
+          "comedy"
+        ]
+      }
     },
     {
       "title": "Guardians of the Galaxy Vol. 2",
@@ -353,7 +604,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 283995,
-      "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg"
+      "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:283995",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Black Panther",
@@ -364,7 +624,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 284054,
-      "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg"
+      "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:284054",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Captain America: Civil War",
@@ -375,7 +644,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 271110,
-      "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg"
+      "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:271110",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Doctor Strange in the Multiverse of Madness",
@@ -386,7 +664,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 453395,
-      "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg"
+      "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:453395",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      }
     },
     {
       "title": "Captain America: The Winter Soldier",
@@ -397,7 +684,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 100402,
-      "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg"
+      "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:100402",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Black Adam",
@@ -408,7 +704,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 436270,
-      "poster_path": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg"
+      "poster_path": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:436270",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Captain America: The First Avenger",
@@ -419,7 +724,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 1771,
-      "poster_path": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg"
+      "poster_path": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1771",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Guardians of the Galaxy",
@@ -430,7 +744,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 118340,
-      "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"
+      "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:118340",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "X-Men: Days of Future Past",
@@ -441,7 +764,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 127585,
-      "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg"
+      "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:127585",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Superman",
@@ -452,7 +784,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 1061474,
-      "poster_path": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg"
+      "poster_path": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1061474",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Thor: The Dark World",
@@ -463,7 +804,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 76338,
-      "poster_path": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg"
+      "poster_path": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:76338",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      }
     },
     {
       "title": "X-Men: Apocalypse",
@@ -474,7 +824,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 246655,
-      "poster_path": "/ikA8UhYdTGpqbatFa93nIf6noSr.jpg"
+      "poster_path": "/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:246655",
+        "genres": [
+          "action",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Aquaman and the Lost Kingdom",
@@ -485,7 +844,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 572802,
-      "poster_path": "/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg"
+      "poster_path": "/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:572802",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      }
     },
     {
       "title": "Justice League",
@@ -496,7 +864,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 141052,
-      "poster_path": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg"
+      "poster_path": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:141052",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Guardians of the Galaxy Vol. 3",
@@ -507,7 +884,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 447365,
-      "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
+      "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:447365",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Eternals",
@@ -518,7 +904,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 524434,
-      "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg"
+      "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:524434",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "The Incredible Hulk",
@@ -529,7 +924,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 1724,
-      "poster_path": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg"
+      "poster_path": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1724",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Ad Astra",
@@ -540,7 +944,15 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 419704,
-      "poster_path": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg"
+      "poster_path": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:419704",
+        "genres": [
+          "drama",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Arrival",
@@ -551,7 +963,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 329865,
-      "poster_path": "/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg"
+      "poster_path": "/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:329865",
+        "genres": [
+          "drama",
+          "mystery",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Avatar: Fire and Ash",
@@ -562,7 +983,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 83533,
-      "poster_path": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+      "poster_path": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:83533",
+        "genres": [
+          "adventure",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Morbius",
@@ -573,7 +1003,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 526896,
-      "poster_path": "/Av8Z2jZhEm1FLkFzMThzz9hndJF.jpg"
+      "poster_path": "/Av8Z2jZhEm1FLkFzMThzz9hndJF.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:526896",
+        "genres": [
+          "action",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Project Hail Mary",
@@ -584,7 +1023,15 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 687163,
-      "poster_path": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
+      "poster_path": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:687163",
+        "genres": [
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "The Hot Chick",
@@ -606,7 +1053,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 46529,
-      "poster_path": "/tPxc7Bb5ZTSFMlCjYxzVWOVy8gD.jpg"
+      "poster_path": "/tPxc7Bb5ZTSFMlCjYxzVWOVy8gD.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:46529",
+        "genres": [
+          "action",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
     },
     {
       "title": "Black Panther: Wakanda Forever",
@@ -617,7 +1073,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 505642,
-      "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
+      "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:505642",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Journey 2: The Mysterious Island",
@@ -628,7 +1093,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 72545,
-      "poster_path": "/uFm2vnp9LhHx5MNo1Ego6O3vUhl.jpg"
+      "poster_path": "/uFm2vnp9LhHx5MNo1Ego6O3vUhl.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:72545",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Teenage Mutant Ninja Turtles",
@@ -639,7 +1113,17 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 98566,
-      "poster_path": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg"
+      "poster_path": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:98566",
+        "genres": [
+          "action",
+          "adventure",
+          "comedy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Thor: Ragnarok",
@@ -650,7 +1134,17 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 284053,
-      "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
+      "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:284053",
+        "genres": [
+          "action",
+          "adventure",
+          "comedy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Venom: Let There Be Carnage",
@@ -661,7 +1155,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 580489,
-      "poster_path": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg"
+      "poster_path": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:580489",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Batman v Superman: Dawn of Justice",
@@ -672,7 +1175,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 209112,
-      "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg"
+      "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:209112",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      }
     },
     {
       "title": "Cars 3",
@@ -683,7 +1195,17 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 260514,
-      "poster_path": "/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
+      "poster_path": "/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:260514",
+        "genres": [
+          "adventure",
+          "animation",
+          "drama",
+          "family"
+        ]
+      }
     },
     {
       "title": "Gemini Man",
@@ -694,7 +1216,18 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 453405,
-      "poster_path": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg"
+      "poster_path": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:453405",
+        "genres": [
+          "action",
+          "adventure",
+          "drama",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
     },
     {
       "title": "Gotham",
@@ -705,7 +1238,17 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 60708,
-      "poster_path": "/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg"
+      "poster_path": "/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:60708",
+        "genres": [
+          "crime",
+          "drama",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Grimm",
@@ -738,7 +1281,14 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 37680,
-      "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg"
+      "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:37680",
+        "genres": [
+          "drama"
+        ]
+      }
     },
     {
       "title": "Peaky Blinders",
@@ -749,7 +1299,15 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 60574,
-      "poster_path": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+      "poster_path": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:60574",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
     },
     {
       "title": "The Mentalist",
@@ -771,7 +1329,16 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 63174,
-      "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg"
+      "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:63174",
+        "genres": [
+          "crime",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Batman Beyond",
@@ -782,7 +1349,18 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 513,
-      "poster_path": "/d01V9s1hjYYJwAeocLNmrhY0ToU.jpg"
+      "poster_path": "/d01V9s1hjYYJwAeocLNmrhY0ToU.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:513",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Batman: The Animated Series",
@@ -793,7 +1371,18 @@
       "rating": null,
       "notes": "",
       "tmdb_id": 2098,
-      "poster_path": "/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg"
+      "poster_path": "/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:2098",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "drama",
+          "mystery"
+        ]
+      }
     },
     {
       "title": "Goliath",
@@ -1356,5 +1945,703 @@
       "tmdb_id": 1622,
       "poster_path": "/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg"
     }
-  ]
+  ],
+  "taste_profile": {
+    "version": 1,
+    "engine": "shared-genres-v1",
+    "genres": {
+      "comedy": {
+        "positive": 9.333333333333332,
+        "negative": 3,
+        "movie": 11,
+        "tv": 0,
+        "affinity": 0.441860465116279
+      },
+      "drama": {
+        "positive": 11.816666666666666,
+        "negative": 0,
+        "movie": 10,
+        "tv": 5,
+        "affinity": 0.8552472858866104
+      },
+      "romance": {
+        "positive": 4.833333333333333,
+        "negative": 1,
+        "movie": 6,
+        "tv": 0,
+        "affinity": 0.48936170212765956
+      },
+      "family": {
+        "positive": 0.75,
+        "negative": 0,
+        "movie": 2,
+        "tv": 0,
+        "affinity": 0.2727272727272727
+      },
+      "history": {
+        "positive": 2.5,
+        "negative": 0,
+        "movie": 2,
+        "tv": 0,
+        "affinity": 0.5555555555555556
+      },
+      "fantasy": {
+        "positive": 4.033333333333333,
+        "negative": 0,
+        "movie": 7,
+        "tv": 4,
+        "affinity": 0.6685082872928176
+      },
+      "mystery": {
+        "positive": 0.7833333333333332,
+        "negative": 0,
+        "movie": 1,
+        "tv": 2,
+        "affinity": 0.28143712574850294
+      },
+      "sciencefiction": {
+        "positive": 23.89999999999999,
+        "negative": 0,
+        "movie": 43,
+        "tv": 4,
+        "affinity": 0.9227799227799227
+      },
+      "action": {
+        "positive": 20.266666666666662,
+        "negative": 0,
+        "movie": 42,
+        "tv": 2,
+        "affinity": 0.9101796407185628
+      },
+      "adventure": {
+        "positive": 21.849999999999994,
+        "negative": 0,
+        "movie": 42,
+        "tv": 2,
+        "affinity": 0.9161425576519916
+      },
+      "thriller": {
+        "positive": 0.5333333333333333,
+        "negative": 0,
+        "movie": 2,
+        "tv": 0,
+        "affinity": 0.2105263157894737
+      },
+      "animation": {
+        "positive": 0.65,
+        "negative": 0,
+        "movie": 1,
+        "tv": 2,
+        "affinity": 0.24528301886792456
+      },
+      "crime": {
+        "positive": 2.75,
+        "negative": 0,
+        "movie": 0,
+        "tv": 3,
+        "affinity": 0.5789473684210527
+      }
+    },
+    "contributions": {
+      "movie:8488": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "comedy",
+          "drama",
+          "romance"
+        ]
+      },
+      "movie:50646": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "comedy",
+          "drama",
+          "romance"
+        ]
+      },
+      "movie:10591": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "comedy",
+          "romance"
+        ]
+      },
+      "movie:3981": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "comedy",
+          "romance"
+        ]
+      },
+      "movie:228203": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "drama",
+          "family"
+        ]
+      },
+      "movie:34016": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "comedy",
+          "romance"
+        ]
+      },
+      "movie:49520": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "comedy"
+        ]
+      },
+      "movie:490132": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "comedy",
+          "drama",
+          "history"
+        ]
+      },
+      "tv:95350": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "drama",
+          "fantasy",
+          "mystery",
+          "sciencefiction"
+        ]
+      },
+      "movie:299534": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:24428": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:99861": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:299536": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:1726": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:10138": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:68721": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:969681": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:557": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "sciencefiction"
+        ]
+      },
+      "movie:315635": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:559": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:1930": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:634649": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:429617": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:558": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:102382": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:157336": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "adventure",
+          "drama",
+          "sciencefiction"
+        ]
+      },
+      "movie:872585": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "drama",
+          "history"
+        ]
+      },
+      "movie:884605": {
+        "type": "movie",
+        "weight": -2,
+        "genres": [
+          "comedy",
+          "romance"
+        ]
+      },
+      "movie:505600": {
+        "type": "movie",
+        "weight": -2,
+        "genres": [
+          "comedy"
+        ]
+      },
+      "movie:283995": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:284054": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:271110": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:453395": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      },
+      "movie:100402": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:436270": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:1771": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:118340": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:127585": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:1061474": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:76338": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      },
+      "movie:246655": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "movie:572802": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      },
+      "movie:141052": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:447365": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:524434": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:1724": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:419704": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "drama",
+          "sciencefiction"
+        ]
+      },
+      "movie:329865": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "drama",
+          "mystery",
+          "sciencefiction"
+        ]
+      },
+      "movie:83533": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "adventure",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "movie:526896": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "movie:687163": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:46529": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "sciencefiction",
+          "thriller"
+        ]
+      },
+      "movie:505642": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:72545": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:98566": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "comedy",
+          "sciencefiction"
+        ]
+      },
+      "movie:284053": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "comedy",
+          "sciencefiction"
+        ]
+      },
+      "movie:580489": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:209112": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      },
+      "movie:260514": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "adventure",
+          "animation",
+          "drama",
+          "family"
+        ]
+      },
+      "movie:453405": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "drama",
+          "sciencefiction",
+          "thriller"
+        ]
+      },
+      "tv:60708": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "crime",
+          "drama",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "tv:37680": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "drama"
+        ]
+      },
+      "tv:60574": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      },
+      "tv:63174": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "crime",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "tv:513": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "tv:2098": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "drama",
+          "mystery"
+        ]
+      }
+    },
+    "pending": 0,
+    "movie_count": 59,
+    "series_count": 7,
+    "summary": [
+      "Science fiction",
+      "Adventure",
+      "Action",
+      "Drama",
+      "Fantasy"
+    ]
+  }
 }
