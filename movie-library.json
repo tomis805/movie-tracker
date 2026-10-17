@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T09:49:34.076Z",
+  "updated_at": "2026-10-17T09:52:22.372Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -794,6 +794,94 @@
       "notes": "",
       "tmdb_id": 2098,
       "poster_path": "/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg"
+    },
+    {
+      "title": "Goliath",
+      "year": 2016,
+      "media_type": "tv",
+      "status": "Watchlist",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 67384,
+      "poster_path": "/b7ygC3GRaq4xc0nkWdGnydtMfvD.jpg"
+    },
+    {
+      "title": "Better Call Saul",
+      "year": 2015,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 60059,
+      "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+    },
+    {
+      "title": "Dexter: New Blood",
+      "year": 2021,
+      "media_type": "tv",
+      "status": "Watchlist",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 131927,
+      "poster_path": "/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg"
+    },
+    {
+      "title": "MobLand",
+      "year": 2025,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 247718,
+      "poster_path": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg"
+    },
+    {
+      "title": "Sons of Anarchy",
+      "year": 2008,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1409,
+      "poster_path": "/yPLkf4EiCkR0NOvMfmpHMA2zfN3.jpg"
+    },
+    {
+      "title": "Batman: The Brave and the Bold",
+      "year": 2008,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 15804,
+      "poster_path": "/tv2mOIRcPP4H0DhOH84xPgqui7d.jpg"
+    },
+    {
+      "title": "Arrow",
+      "year": 2012,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1412,
+      "poster_path": "/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg"
+    },
+    {
+      "title": "Ben 10: Alien Force",
+      "year": 2008,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 6040,
+      "poster_path": "/sEocAE3h5iu8CUNhdx1gHan7QJf.jpg"
     }
   ]
 }
