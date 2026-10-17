@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T12:51:13.556Z",
+  "updated_at": "2026-10-17T09:31:00.924Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -154,6 +154,17 @@
       "notes": "Carried over from the earlier conversation; viewing status unconfirmed.",
       "tmdb_id": 2105,
       "poster_path": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg"
+    },
+    {
+      "title": "Green Book",
+      "year": 2018,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 490132,
+      "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg"
     }
   ]
 }
