@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:10:22.131Z",
+  "updated_at": "2026-10-17T10:15:08.691Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -1944,6 +1944,82 @@
       "notes": "",
       "tmdb_id": 1622,
       "poster_path": "/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg"
+    },
+    {
+      "title": "Landman",
+      "year": 2024,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 157741,
+      "poster_path": "/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:157741",
+        "genres": [
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Yellowstone",
+      "year": 2018,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 73586,
+      "poster_path": "/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:73586",
+        "genres": [
+          "drama",
+          "western"
+        ]
+      }
+    },
+    {
+      "title": "Dutton Ranch",
+      "year": 2026,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 299167,
+      "poster_path": "/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:299167",
+        "genres": [
+          "drama",
+          "western"
+        ]
+      }
+    },
+    {
+      "title": "Lioness",
+      "year": 2023,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 113962,
+      "poster_path": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:113962",
+        "genres": [
+          "drama",
+          "war",
+          "politics"
+        ]
+      }
     }
   ],
   "taste_profile": {
