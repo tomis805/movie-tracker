@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:58:20.269Z",
+  "updated_at": "2026-10-17T11:08:38.536Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -3591,6 +3591,444 @@
           "action",
           "adventure",
           "crime",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Attack on Titan: THE LAST ATTACK",
+      "year": 2024,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1333100,
+      "poster_path": "/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1333100",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 27205,
+      "poster_path": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:27205",
+        "genres": [
+          "action",
+          "crime",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Gladiator",
+      "year": 2000,
+      "media_type": "movie",
+      "status": "Watchlist",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 98,
+      "poster_path": "/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:98",
+        "genres": [
+          "action",
+          "adventure",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Runner",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watchlist",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1377237,
+      "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1377237",
+        "genres": [
+          "action",
+          "comedy"
+        ]
+      }
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 76341,
+      "poster_path": "/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:76341",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Franco Escamilla: por la anécdota",
+      "year": 2018,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 529414,
+      "poster_path": "/iT5LzAICUgviiSY0d5461MKNSOc.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:529414",
+        "genres": [
+          "comedy"
+        ]
+      }
+    },
+    {
+      "title": "The Terminator",
+      "year": 1984,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 218,
+      "poster_path": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:218",
+        "genres": [
+          "action",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Deadpool & Wolverine",
+      "year": 2024,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 533535,
+      "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:533535",
+        "genres": [
+          "action",
+          "comedy",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "media_type": "movie",
+      "status": "Watchlist",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 617126,
+      "poster_path": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:617126",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "The Equalizer",
+      "year": 2014,
+      "media_type": "movie",
+      "status": "Watchlist",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 156022,
+      "poster_path": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:156022",
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "year": 2014,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 131631,
+      "poster_path": "/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:131631",
+        "genres": [
+          "adventure",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Gladiator II",
+      "year": 2024,
+      "media_type": "movie",
+      "status": "Watchlist",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 558449,
+      "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:558449",
+        "genres": [
+          "action",
+          "adventure",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watchlist",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1003596,
+      "poster_path": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1003596",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 8355,
+      "poster_path": "/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:8355",
+        "genres": [
+          "adventure",
+          "animation",
+          "comedy",
+          "family"
+        ]
+      }
+    },
+    {
+      "title": "Fast X",
+      "year": 2023,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 385687,
+      "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:385687",
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 57800,
+      "poster_path": "/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:57800",
+        "genres": [
+          "adventure",
+          "animation",
+          "comedy",
+          "family"
+        ]
+      }
+    },
+    {
+      "title": "Scary Movie",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1273221,
+      "poster_path": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1273221",
+        "genres": [
+          "comedy"
+        ]
+      }
+    },
+    {
+      "title": "A Minecraft Movie",
+      "year": 2025,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 950387,
+      "poster_path": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:950387",
+        "genres": [
+          "adventure",
+          "comedy",
+          "family",
+          "fantasy"
+        ]
+      }
+    },
+    {
+      "title": "Heads of State",
+      "year": 2025,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 749170,
+      "poster_path": "/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:749170",
+        "genres": [
+          "action",
+          "comedy",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Venom",
+      "year": 2018,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 335983,
+      "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:335983",
+        "genres": [
+          "action",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Venom: The Last Dance",
+      "year": 2024,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 912649,
+      "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:912649",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "The Death of Robin Hood",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1284465,
+      "poster_path": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1284465",
+        "genres": [
+          "action",
+          "adventure",
           "drama"
         ]
       }
