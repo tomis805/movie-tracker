@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:17:05.186Z",
+  "updated_at": "2026-10-17T10:19:13.858Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -1400,11 +1400,19 @@
       "year": 2015,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 60059,
-      "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+      "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:60059",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
     },
     {
       "title": "Dexter: New Blood",
@@ -1422,40 +1430,67 @@
       "year": 2025,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 247718,
-      "poster_path": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg"
+      "poster_path": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:247718",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
     },
     {
       "title": "Sons of Anarchy",
       "year": 2008,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 1409,
-      "poster_path": "/yPLkf4EiCkR0NOvMfmpHMA2zfN3.jpg"
+      "poster_path": "/yPLkf4EiCkR0NOvMfmpHMA2zfN3.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1409",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
     },
     {
       "title": "Batman: The Brave and the Bold",
       "year": 2008,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 15804,
-      "poster_path": "/tv2mOIRcPP4H0DhOH84xPgqui7d.jpg"
+      "poster_path": "/tv2mOIRcPP4H0DhOH84xPgqui7d.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:15804",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Arrow",
       "year": 2012,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Neutral",
       "rating": null,
       "notes": "",
       "tmdb_id": 1412,
@@ -1466,22 +1501,41 @@
       "year": 2008,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 6040,
-      "poster_path": "/sEocAE3h5iu8CUNhdx1gHan7QJf.jpg"
+      "poster_path": "/sEocAE3h5iu8CUNhdx1gHan7QJf.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:6040",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Breaking Bad",
       "year": 2008,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 1396,
-      "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg"
+      "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1396",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
     },
     {
       "title": "Oblivion",
@@ -1499,40 +1553,67 @@
       "year": 2013,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 76170,
-      "poster_path": "/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg"
+      "poster_path": "/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:76170",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "X-Men Origins: Wolverine",
       "year": 2009,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 2080,
-      "poster_path": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg"
+      "poster_path": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:2080",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Doctor Strange",
       "year": 2016,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 284052,
-      "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg"
+      "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:284052",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      }
     },
     {
       "title": "Aquaman",
       "year": 2018,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Neutral",
       "rating": null,
       "notes": "",
       "tmdb_id": 297802,
@@ -1543,7 +1624,7 @@
       "year": 2013,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Neutral",
       "rating": null,
       "notes": "",
       "tmdb_id": 49047,
@@ -1554,11 +1635,20 @@
       "year": 2009,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 8373,
-      "poster_path": "/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg"
+      "poster_path": "/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:8373",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "All the Way",
@@ -1576,7 +1666,7 @@
       "year": 2012,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Neutral",
       "rating": null,
       "notes": "",
       "tmdb_id": 49529,
@@ -1587,11 +1677,20 @@
       "year": 2013,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 49521,
-      "poster_path": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg"
+      "poster_path": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:49521",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Nuremberg",
@@ -1609,44 +1708,80 @@
       "year": 2022,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 696806,
-      "poster_path": "/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg"
+      "poster_path": "/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:696806",
+        "genres": [
+          "adventure",
+          "comedy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Thor",
       "year": 2011,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 10195,
-      "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg"
+      "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:10195",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      }
     },
     {
       "title": "Thor: Love and Thunder",
       "year": 2022,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 616037,
-      "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"
+      "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:616037",
+        "genres": [
+          "action",
+          "comedy",
+          "fantasy"
+        ]
+      }
     },
     {
       "title": "Transformers",
       "year": 2007,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 1858,
-      "poster_path": "/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg"
+      "poster_path": "/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1858",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "UNABOMBER",
@@ -1664,18 +1799,27 @@
       "year": 2022,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 76600,
-      "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+      "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:76600",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Jumper",
       "year": 2008,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Neutral",
       "rating": null,
       "notes": "",
       "tmdb_id": 8247,
@@ -1686,55 +1830,100 @@
       "year": 1997,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 607,
-      "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg"
+      "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:607",
+        "genres": [
+          "action",
+          "adventure",
+          "comedy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Men in Black II",
       "year": 2002,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 608,
-      "poster_path": "/enA22EPyzc2WQ1VVyY7zxresQQr.jpg"
+      "poster_path": "/enA22EPyzc2WQ1VVyY7zxresQQr.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:608",
+        "genres": [
+          "action",
+          "comedy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Terminator Genisys",
       "year": 2015,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 87101,
-      "poster_path": "/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg"
+      "poster_path": "/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:87101",
+        "genres": [
+          "action",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
     },
     {
       "title": "Ben 10: Alien Swarm",
       "year": 2009,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 25642,
-      "poster_path": "/4emrSFOwIlx35OawRcqlwH66TZD.jpg"
+      "poster_path": "/4emrSFOwIlx35OawRcqlwH66TZD.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:25642",
+        "genres": [
+          "action",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Bumblebee",
       "year": 2018,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 424783,
-      "poster_path": "/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg"
+      "poster_path": "/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:424783",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Dune: Part Two",
@@ -1763,95 +1952,171 @@
       "year": 2024,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 823464,
-      "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
+      "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:823464",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Incredibles 2",
       "year": 2018,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 260513,
-      "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"
+      "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:260513",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "family"
+        ]
+      }
     },
     {
       "title": "Jurassic World: Fallen Kingdom",
       "year": 2018,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 351286,
-      "poster_path": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg"
+      "poster_path": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:351286",
+        "genres": [
+          "adventure",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
     },
     {
       "title": "Kingdom of the Planet of the Apes",
       "year": 2024,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 653346,
-      "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
+      "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:653346",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Men in Black: International",
       "year": 2019,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 479455,
-      "poster_path": "/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg"
+      "poster_path": "/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:479455",
+        "genres": [
+          "action",
+          "adventure",
+          "comedy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Megamind",
       "year": 2010,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 38055,
-      "poster_path": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
+      "poster_path": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:38055",
+        "genres": [
+          "action",
+          "animation",
+          "comedy",
+          "family",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Pacific Rim: Uprising",
       "year": 2018,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 268896,
-      "poster_path": "/nFWhttU8PM50t25NPdy7PE7rv3G.jpg"
+      "poster_path": "/nFWhttU8PM50t25NPdy7PE7rv3G.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:268896",
+        "genres": [
+          "action",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Pirates of the Caribbean: Dead Man's Chest",
       "year": 2006,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 58,
-      "poster_path": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg"
+      "poster_path": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:58",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      }
     },
     {
       "title": "Rebel Moon - Part One: A Child of Fire",
       "year": 2023,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Neutral",
       "rating": null,
       "notes": "",
       "tmdb_id": 848326,
@@ -1862,95 +2127,172 @@
       "year": 2019,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 287947,
-      "poster_path": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg"
+      "poster_path": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:287947",
+        "genres": [
+          "action",
+          "comedy",
+          "fantasy"
+        ]
+      }
     },
     {
       "title": "The Dark Knight",
       "year": 2008,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 155,
-      "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+      "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:155",
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ]
+      }
     },
     {
       "title": "The Matrix Reloaded",
       "year": 2003,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 604,
-      "poster_path": "/8xEVAe84zlL9rkfYT6dZXero4KK.jpg"
+      "poster_path": "/8xEVAe84zlL9rkfYT6dZXero4KK.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:604",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
     },
     {
       "title": "TMNT",
       "year": 2007,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 1273,
-      "poster_path": "/poi1xctCgyzTRkNwiVYp6auQNhj.jpg"
+      "poster_path": "/poi1xctCgyzTRkNwiVYp6auQNhj.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1273",
+        "genres": [
+          "adventure",
+          "animation",
+          "comedy",
+          "family"
+        ]
+      }
     },
     {
       "title": "Transformers: Age of Extinction",
       "year": 2014,
       "media_type": "movie",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 91314,
-      "poster_path": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg"
+      "poster_path": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:91314",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "ONE PIECE",
       "year": 2023,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 111110,
-      "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg"
+      "poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:111110",
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "One Piece",
       "year": 1999,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 37854,
-      "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg"
+      "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:37854",
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "comedy"
+        ]
+      }
     },
     {
       "title": "Supernatural",
       "year": 2005,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 1622,
-      "poster_path": "/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg"
+      "poster_path": "/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1622",
+        "genres": [
+          "drama",
+          "fantasy",
+          "mystery",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "Landman",
       "year": 2024,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 157741,
@@ -1968,7 +2310,7 @@
       "year": 2018,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 73586,
@@ -1987,7 +2329,7 @@
       "year": 2026,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 299167,
@@ -2006,7 +2348,7 @@
       "year": 2023,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 113962,
@@ -2026,7 +2368,7 @@
       "year": 2011,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Neutral",
       "rating": null,
       "notes": "",
       "tmdb_id": 1399,
@@ -2048,7 +2390,7 @@
       "year": 2010,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Neutral",
       "rating": null,
       "notes": "",
       "tmdb_id": 31132,
@@ -2071,7 +2413,7 @@
       "year": 2013,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 60625,
@@ -2094,7 +2436,7 @@
       "year": 2016,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 66732,
@@ -2116,7 +2458,7 @@
       "year": 2002,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 46260,
@@ -2138,7 +2480,7 @@
       "year": 1997,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 60572,
@@ -2160,7 +2502,7 @@
       "year": 2005,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Neutral",
       "rating": null,
       "notes": "",
       "tmdb_id": 2288,
@@ -2181,7 +2523,7 @@
       "year": 2022,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 108978,
@@ -2201,7 +2543,7 @@
       "year": 2014,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 60735,
@@ -2221,7 +2563,7 @@
       "year": 2005,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 1911,
@@ -2240,7 +2582,7 @@
       "year": 2018,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Neutral",
       "rating": null,
       "notes": "",
       "tmdb_id": 79744,
@@ -2260,7 +2602,7 @@
       "year": 2011,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 34307,
@@ -2279,7 +2621,7 @@
       "year": 2020,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 97546,
@@ -2298,7 +2640,7 @@
       "year": 2004,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 1408,
@@ -2317,18 +2659,18 @@
     "engine": "shared-genres-v1",
     "genres": {
       "comedy": {
-        "positive": 9.333333333333332,
+        "positive": 14.866666666666667,
         "negative": 3,
-        "movie": 11,
-        "tv": 0,
-        "affinity": 0.441860465116279
+        "movie": 19,
+        "tv": 4,
+        "affinity": 0.5973154362416108
       },
       "drama": {
-        "positive": 11.816666666666666,
+        "positive": 28.73333333333333,
         "negative": 0,
         "movie": 10,
-        "tv": 5,
-        "affinity": 0.8552472858866104
+        "tv": 19,
+        "affinity": 0.9349240780911063
       },
       "romance": {
         "positive": 4.833333333333333,
@@ -2338,11 +2680,11 @@
         "affinity": 0.48936170212765956
       },
       "family": {
-        "positive": 0.75,
+        "positive": 1.95,
         "negative": 0,
-        "movie": 2,
+        "movie": 5,
         "tv": 0,
-        "affinity": 0.2727272727272727
+        "affinity": 0.49367088607594933
       },
       "history": {
         "positive": 2.5,
@@ -2352,60 +2694,81 @@
         "affinity": 0.5555555555555556
       },
       "fantasy": {
-        "positive": 4.033333333333333,
+        "positive": 10.599999999999998,
         "negative": 0,
-        "movie": 7,
-        "tv": 4,
-        "affinity": 0.6685082872928176
+        "movie": 13,
+        "tv": 13,
+        "affinity": 0.8412698412698413
       },
       "mystery": {
-        "positive": 0.7833333333333332,
+        "positive": 1.7333333333333332,
         "negative": 0,
         "movie": 1,
-        "tv": 2,
-        "affinity": 0.28143712574850294
+        "tv": 4,
+        "affinity": 0.46428571428571425
       },
       "sciencefiction": {
-        "positive": 23.89999999999999,
+        "positive": 38.91666666666667,
         "negative": 0,
-        "movie": 43,
-        "tv": 4,
-        "affinity": 0.9227799227799227
+        "movie": 63,
+        "tv": 13,
+        "affinity": 0.9511201629327902
       },
       "action": {
-        "positive": 20.266666666666662,
+        "positive": 38.36666666666666,
         "negative": 0,
-        "movie": 42,
-        "tv": 2,
-        "affinity": 0.9101796407185628
+        "movie": 67,
+        "tv": 11,
+        "affinity": 0.9504541701073493
       },
       "adventure": {
-        "positive": 21.849999999999994,
+        "positive": 36.66666666666666,
         "negative": 0,
-        "movie": 42,
-        "tv": 2,
-        "affinity": 0.9161425576519916
+        "movie": 62,
+        "tv": 11,
+        "affinity": 0.9482758620689655
       },
       "thriller": {
-        "positive": 0.5333333333333333,
+        "positive": 3.1166666666666663,
         "negative": 0,
-        "movie": 2,
+        "movie": 6,
         "tv": 0,
-        "affinity": 0.2105263157894737
+        "affinity": 0.6091205211726384
       },
       "animation": {
-        "positive": 0.65,
+        "positive": 3.8000000000000003,
         "negative": 0,
-        "movie": 1,
-        "tv": 2,
-        "affinity": 0.24528301886792456
+        "movie": 4,
+        "tv": 8,
+        "affinity": 0.6551724137931034
       },
       "crime": {
-        "positive": 2.75,
+        "positive": 9.25,
+        "negative": 0,
+        "movie": 1,
+        "tv": 9,
+        "affinity": 0.8222222222222222
+      },
+      "western": {
+        "positive": 3,
         "negative": 0,
         "movie": 0,
-        "tv": 3,
-        "affinity": 0.5789473684210527
+        "tv": 2,
+        "affinity": 0.6
+      },
+      "war": {
+        "positive": 0.3333333333333333,
+        "negative": 0,
+        "movie": 0,
+        "tv": 1,
+        "affinity": 0.14285714285714285
+      },
+      "politics": {
+        "positive": 0.3333333333333333,
+        "negative": 0,
+        "movie": 0,
+        "tv": 1,
+        "affinity": 0.14285714285714285
       }
     },
     "contributions": {
@@ -2997,15 +3360,483 @@
           "drama",
           "mystery"
         ]
+      },
+      "tv:60059": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      },
+      "tv:247718": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      },
+      "tv:1409": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      },
+      "tv:15804": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "tv:6040": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "tv:1396": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      },
+      "movie:76170": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:2080": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:284052": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      },
+      "movie:8373": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:49521": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:696806": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "adventure",
+          "comedy",
+          "sciencefiction"
+        ]
+      },
+      "movie:10195": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      },
+      "movie:616037": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "comedy",
+          "fantasy"
+        ]
+      },
+      "movie:1858": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:76600": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:607": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "comedy",
+          "sciencefiction"
+        ]
+      },
+      "movie:608": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "comedy",
+          "sciencefiction"
+        ]
+      },
+      "movie:87101": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "sciencefiction",
+          "thriller"
+        ]
+      },
+      "movie:25642": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "sciencefiction"
+        ]
+      },
+      "movie:424783": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:823464": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:260513": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "family"
+        ]
+      },
+      "movie:351286": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "adventure",
+          "sciencefiction",
+          "thriller"
+        ]
+      },
+      "movie:653346": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "movie:479455": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "comedy",
+          "sciencefiction"
+        ]
+      },
+      "movie:38055": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "animation",
+          "comedy",
+          "family",
+          "sciencefiction"
+        ]
+      },
+      "movie:268896": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "movie:58": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy"
+        ]
+      },
+      "movie:287947": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "comedy",
+          "fantasy"
+        ]
+      },
+      "movie:155": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ]
+      },
+      "movie:604": {
+        "type": "movie",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction",
+          "thriller"
+        ]
+      },
+      "movie:1273": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "adventure",
+          "animation",
+          "comedy",
+          "family"
+        ]
+      },
+      "movie:91314": {
+        "type": "movie",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      },
+      "tv:111110": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "tv:37854": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "comedy"
+        ]
+      },
+      "tv:1622": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "drama",
+          "fantasy",
+          "mystery",
+          "sciencefiction"
+        ]
+      },
+      "tv:157741": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "drama"
+        ]
+      },
+      "tv:73586": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "drama",
+          "western"
+        ]
+      },
+      "tv:299167": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "drama",
+          "western"
+        ]
+      },
+      "tv:113962": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "drama",
+          "war",
+          "politics"
+        ]
+      },
+      "tv:60625": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "comedy",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "tv:66732": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "fantasy",
+          "mystery",
+          "sciencefiction"
+        ]
+      },
+      "tv:46260": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "tv:60572": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "tv:108978": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "action",
+          "adventure",
+          "crime"
+        ]
+      },
+      "tv:60735": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "drama",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
+      "tv:1911": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      },
+      "tv:34307": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "comedy",
+          "drama"
+        ]
+      },
+      "tv:97546": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "comedy",
+          "drama"
+        ]
+      },
+      "tv:1408": {
+        "type": "tv",
+        "weight": 3,
+        "genres": [
+          "drama"
+        ]
       }
     },
     "pending": 0,
-    "movie_count": 59,
-    "series_count": 7,
+    "movie_count": 87,
+    "series_count": 30,
     "summary": [
       "Science fiction",
-      "Adventure",
       "Action",
+      "Adventure",
       "Drama",
       "Fantasy"
     ]
