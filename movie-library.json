@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-18T01:45:14.890Z",
+  "updated_at": "2026-10-18T01:45:51.923Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -5352,7 +5352,7 @@
       "year": 2010,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Top",
       "rating": null,
       "notes": "",
       "tmdb_id": 19885,
@@ -5383,12 +5383,12 @@
         "avoided": false
       },
       "drama": {
-        "positive": 19.89999999999999,
+        "positive": 20.233333333333324,
         "negative": 0.049999999999999996,
         "movie": 32,
-        "tv": 31,
-        "affinity": 0.10652951699463326,
-        "learned_affinity": 0.10652951699463326,
+        "tv": 32,
+        "affinity": 0.1070418385385975,
+        "learned_affinity": 0.1070418385385975,
         "preference": "auto",
         "avoided": false
       },
@@ -5433,12 +5433,12 @@
         "avoided": false
       },
       "mystery": {
-        "positive": 1.9916666666666667,
+        "positive": 2.325,
         "negative": 0,
         "movie": 5,
-        "tv": 6,
-        "affinity": 0.029899916597164303,
-        "learned_affinity": 0.029899916597164303,
+        "tv": 7,
+        "affinity": 0.0337772397094431,
+        "learned_affinity": 0.0337772397094431,
         "preference": "auto",
         "avoided": false
       },
@@ -5493,12 +5493,12 @@
         "avoided": false
       },
       "crime": {
-        "positive": 9.908333333333331,
+        "positive": 10.241666666666665,
         "negative": 0.049999999999999996,
         "movie": 21,
-        "tv": 14,
-        "affinity": 0.08234338747099766,
-        "learned_affinity": 0.08234338747099766,
+        "tv": 15,
+        "affinity": 0.0835763097949886,
+        "learned_affinity": 0.0835763097949886,
         "preference": "auto",
         "avoided": false
       },
@@ -7614,12 +7614,21 @@
           "fantasy",
           "sciencefiction"
         ]
+      },
+      "tv:19885": {
+        "type": "tv",
+        "weight": 1,
+        "genres": [
+          "crime",
+          "drama",
+          "mystery"
+        ]
       }
     },
     "manual_count": 0,
     "pending": 0,
     "movie_count": 168,
-    "series_count": 58,
+    "series_count": 59,
     "summary": [
       "Action",
       "Science fiction",
