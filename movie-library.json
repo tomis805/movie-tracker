@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-17T11:26:04.528Z",
+  "updated_at": "2026-10-18T01:45:14.890Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -5344,6 +5344,26 @@
           "family",
           "fantasy",
           "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Sherlock",
+      "year": 2010,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 19885,
+      "poster_path": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:19885",
+        "genres": [
+          "crime",
+          "drama",
+          "mystery"
         ]
       }
     }
