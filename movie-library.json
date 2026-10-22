@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-18T01:45:51.923Z",
+  "updated_at": "2026-10-22T19:42:35.828Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -5364,6 +5364,25 @@
           "crime",
           "drama",
           "mystery"
+        ]
+      }
+    },
+    {
+      "title": "After Life",
+      "year": 2019,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 79410,
+      "poster_path": "/6eJf4h9XcvqK64vbx27EFlLVURm.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:79410",
+        "genres": [
+          "comedy",
+          "drama"
         ]
       }
     }
