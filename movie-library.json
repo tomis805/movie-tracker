@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-22T19:42:35.828Z",
+  "updated_at": "2026-10-23T10:43:32.428Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -5372,7 +5372,7 @@
       "year": 2019,
       "media_type": "tv",
       "status": "Watched",
-      "opinion": "Unrated",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 79410,
@@ -5392,22 +5392,22 @@
     "engine": "gentle-genres-v2",
     "genres": {
       "comedy": {
-        "positive": 9.724999999999998,
+        "positive": 9.974999999999998,
         "negative": 0.4125,
         "movie": 30,
-        "tv": 10,
-        "affinity": 0.07701585113714679,
-        "learned_affinity": 0.07701585113714679,
+        "tv": 11,
+        "affinity": 0.07800815771583956,
+        "learned_affinity": 0.07800815771583956,
         "preference": "auto",
         "avoided": false
       },
       "drama": {
-        "positive": 20.233333333333324,
+        "positive": 20.483333333333324,
         "negative": 0.049999999999999996,
         "movie": 32,
-        "tv": 32,
-        "affinity": 0.1070418385385975,
-        "learned_affinity": 0.1070418385385975,
+        "tv": 33,
+        "affinity": 0.10741822429906539,
+        "learned_affinity": 0.10741822429906539,
         "preference": "auto",
         "avoided": false
       },
@@ -7642,12 +7642,20 @@
           "drama",
           "mystery"
         ]
+      },
+      "tv:79410": {
+        "type": "tv",
+        "weight": 0.5,
+        "genres": [
+          "comedy",
+          "drama"
+        ]
       }
     },
     "manual_count": 0,
     "pending": 0,
     "movie_count": 168,
-    "series_count": 59,
+    "series_count": 60,
     "summary": [
       "Action",
       "Science fiction",
