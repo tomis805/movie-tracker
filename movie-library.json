@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-23T10:43:32.428Z",
+  "updated_at": "2026-10-29T21:11:32.236Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -1389,12 +1389,20 @@
       "title": "Goliath",
       "year": 2016,
       "media_type": "tv",
-      "status": "Watchlist",
-      "opinion": "Unrated",
+      "status": "Watched",
+      "opinion": "Disliked",
       "rating": null,
       "notes": "",
       "tmdb_id": 67384,
-      "poster_path": "/b7ygC3GRaq4xc0nkWdGnydtMfvD.jpg"
+      "poster_path": "/b7ygC3GRaq4xc0nkWdGnydtMfvD.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:67384",
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      }
     },
     {
       "title": "Better Call Saul",
@@ -1542,12 +1550,22 @@
       "title": "Oblivion",
       "year": 2013,
       "media_type": "movie",
-      "status": "Watchlist",
-      "opinion": "Unrated",
+      "status": "Watched",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 75612,
-      "poster_path": "/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg"
+      "poster_path": "/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:75612",
+        "genres": [
+          "action",
+          "adventure",
+          "mystery",
+          "sciencefiction"
+        ]
+      }
     },
     {
       "title": "The Wolverine",
@@ -3660,8 +3678,8 @@
       "title": "Runner",
       "year": 2026,
       "media_type": "movie",
-      "status": "Watchlist",
-      "opinion": "Unrated",
+      "status": "Watched",
+      "opinion": "Liked",
       "rating": null,
       "notes": "",
       "tmdb_id": 1377237,
@@ -5184,8 +5202,8 @@
       "title": "Solo Leveling",
       "year": 2024,
       "media_type": "tv",
-      "status": "Watchlist",
-      "opinion": "Unrated",
+      "status": "Watched",
+      "opinion": "Disliked",
       "rating": null,
       "notes": "",
       "tmdb_id": 127532,
@@ -5385,6 +5403,81 @@
           "drama"
         ]
       }
+    },
+    {
+      "title": "Triangle of Sadness",
+      "year": 2022,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 497828,
+      "poster_path": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:497828",
+        "genres": [
+          "comedy",
+          "drama"
+        ]
+      }
+    },
+    {
+      "title": "Luther",
+      "year": 2010,
+      "media_type": "tv",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1426,
+      "poster_path": "/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "tv:1426",
+        "genres": [
+          "crime",
+          "drama",
+          "mystery"
+        ]
+      }
+    },
+    {
+      "title": "Ali G: Who Iz I?",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1727734,
+      "poster_path": "/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1727734",
+        "genres": [
+          "comedy"
+        ]
+      }
+    },
+    {
+      "title": "Ali G Indahouse",
+      "year": 2002,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 9298,
+      "poster_path": "/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:9298",
+        "genres": [
+          "comedy"
+        ]
+      }
     }
   ],
   "taste_profile": {
@@ -5392,22 +5485,22 @@
     "engine": "gentle-genres-v2",
     "genres": {
       "comedy": {
-        "positive": 9.974999999999998,
+        "positive": 10.225,
         "negative": 0.4125,
-        "movie": 30,
+        "movie": 31,
         "tv": 11,
-        "affinity": 0.07800815771583956,
-        "learned_affinity": 0.07800815771583956,
+        "affinity": 0.0789738430583501,
+        "learned_affinity": 0.0789738430583501,
         "preference": "auto",
         "avoided": false
       },
       "drama": {
         "positive": 20.483333333333324,
-        "negative": 0.049999999999999996,
+        "negative": 0.125,
         "movie": 32,
-        "tv": 33,
-        "affinity": 0.10741822429906539,
-        "learned_affinity": 0.10741822429906539,
+        "tv": 34,
+        "affinity": 0.10674337314302358,
+        "learned_affinity": 0.10674337314302358,
         "preference": "auto",
         "avoided": false
       },
@@ -5443,51 +5536,51 @@
       },
       "fantasy": {
         "positive": 9.399999999999997,
-        "negative": 0.18749999999999997,
+        "negative": 0.21749999999999997,
         "movie": 29,
-        "tv": 28,
-        "affinity": 0.07857142857142856,
-        "learned_affinity": 0.07857142857142856,
+        "tv": 29,
+        "affinity": 0.07818220519369944,
+        "learned_affinity": 0.07818220519369944,
         "preference": "auto",
         "avoided": false
       },
       "mystery": {
-        "positive": 2.325,
+        "positive": 2.45,
         "negative": 0,
-        "movie": 5,
+        "movie": 6,
         "tv": 7,
-        "affinity": 0.0337772397094431,
-        "learned_affinity": 0.0337772397094431,
+        "affinity": 0.035167464114832535,
+        "learned_affinity": 0.035167464114832535,
         "preference": "auto",
         "avoided": false
       },
       "sciencefiction": {
-        "positive": 23.499999999999996,
-        "negative": 0.175,
-        "movie": 86,
-        "tv": 28,
-        "affinity": 0.11045777426992895,
-        "learned_affinity": 0.11045777426992895,
+        "positive": 23.624999999999996,
+        "negative": 0.205,
+        "movie": 87,
+        "tv": 29,
+        "affinity": 0.11036757775683317,
+        "learned_affinity": 0.11036757775683317,
         "preference": "auto",
         "avoided": false
       },
       "action": {
-        "positive": 28.25833333333333,
-        "negative": 0.19999999999999998,
-        "movie": 110,
-        "tv": 23,
-        "affinity": 0.11544,
-        "learned_affinity": 0.11544,
+        "positive": 28.63333333333333,
+        "negative": 0.22999999999999998,
+        "movie": 112,
+        "tv": 24,
+        "affinity": 0.11557554932634054,
+        "learned_affinity": 0.11557554932634054,
         "preference": "auto",
         "avoided": false
       },
       "adventure": {
-        "positive": 22.591666666666676,
-        "negative": 0.2875,
-        "movie": 95,
-        "tv": 23,
-        "affinity": 0.10834570233436783,
-        "learned_affinity": 0.10834570233436783,
+        "positive": 22.716666666666676,
+        "negative": 0.3175,
+        "movie": 96,
+        "tv": 24,
+        "affinity": 0.10826374157514569,
+        "learned_affinity": 0.10826374157514569,
         "preference": "auto",
         "avoided": false
       },
@@ -5503,21 +5596,21 @@
       },
       "animation": {
         "positive": 4.591666666666668,
-        "negative": 0.09999999999999999,
+        "negative": 0.13,
         "movie": 15,
-        "tv": 19,
-        "affinity": 0.053086014445174017,
-        "learned_affinity": 0.053086014445174017,
+        "tv": 20,
+        "affinity": 0.05260710074675751,
+        "learned_affinity": 0.05260710074675751,
         "preference": "auto",
         "avoided": false
       },
       "crime": {
         "positive": 10.241666666666665,
-        "negative": 0.049999999999999996,
+        "negative": 0.125,
         "movie": 21,
-        "tv": 15,
-        "affinity": 0.0835763097949886,
-        "learned_affinity": 0.0835763097949886,
+        "tv": 16,
+        "affinity": 0.08262250453720507,
+        "learned_affinity": 0.08262250453720507,
         "preference": "auto",
         "avoided": false
       },
@@ -6182,6 +6275,14 @@
           "mystery"
         ]
       },
+      "tv:67384": {
+        "type": "tv",
+        "weight": -0.15,
+        "genres": [
+          "crime",
+          "drama"
+        ]
+      },
       "tv:60059": {
         "type": "tv",
         "weight": 1,
@@ -6234,6 +6335,16 @@
         "genres": [
           "crime",
           "drama"
+        ]
+      },
+      "movie:75612": {
+        "type": "movie",
+        "weight": 0.5,
+        "genres": [
+          "action",
+          "adventure",
+          "mystery",
+          "sciencefiction"
         ]
       },
       "movie:76170": {
@@ -7016,6 +7127,14 @@
           "sciencefiction"
         ]
       },
+      "movie:1377237": {
+        "type": "movie",
+        "weight": 0.5,
+        "genres": [
+          "action",
+          "comedy"
+        ]
+      },
       "movie:76341": {
         "type": "movie",
         "weight": 0.5,
@@ -7566,6 +7685,17 @@
           "drama"
         ]
       },
+      "tv:127532": {
+        "type": "tv",
+        "weight": -0.15,
+        "genres": [
+          "action",
+          "adventure",
+          "animation",
+          "fantasy",
+          "sciencefiction"
+        ]
+      },
       "tv:1438": {
         "type": "tv",
         "weight": 0.5,
@@ -7654,8 +7784,8 @@
     },
     "manual_count": 0,
     "pending": 0,
-    "movie_count": 168,
-    "series_count": 60,
+    "movie_count": 170,
+    "series_count": 62,
     "summary": [
       "Action",
       "Science fiction",
