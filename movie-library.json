@@ -1,7 +1,7 @@
 {
   "taste_preferences": {},
   "schema_version": 1,
-  "updated_at": "2026-10-29T21:11:32.236Z",
+  "updated_at": "2026-11-10T17:51:03.779Z",
   "guidance": "Personal movie and TV series library. Only user confirmation establishes watched status and ratings. Missing media_type means movie.",
   "movies": [
     {
@@ -5475,6 +5475,186 @@
         "version": 1,
         "source": "movie:9298",
         "genres": [
+          "comedy"
+        ]
+      }
+    },
+    {
+      "title": "Pacific Rim",
+      "year": 2013,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 68726,
+      "poster_path": "/mmznhaQDwlHWpUwKuNxtQiubbmM.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:68726",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Godzilla Minus Zero",
+      "year": 2026,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 1381071,
+      "poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:1381071",
+        "genres": [
+          "action",
+          "horror",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Godzilla",
+      "year": 2014,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 124905,
+      "poster_path": "/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:124905",
+        "genres": [
+          "action",
+          "drama",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Godzilla vs. Kong",
+      "year": 2021,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 399566,
+      "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:399566",
+        "genres": [
+          "action",
+          "adventure",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Godzilla Minus One",
+      "year": 2023,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 940721,
+      "poster_path": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:940721",
+        "genres": [
+          "action",
+          "horror",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Godzilla: King of the Monsters",
+      "year": 2019,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 373571,
+      "poster_path": "/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:373571",
+        "genres": [
+          "action",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Real Steel",
+      "year": 2011,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 39254,
+      "poster_path": "/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:39254",
+        "genres": [
+          "action",
+          "drama",
+          "sciencefiction"
+        ]
+      }
+    },
+    {
+      "title": "Elysium",
+      "year": 2013,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 68724,
+      "poster_path": "/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:68724",
+        "genres": [
+          "action",
+          "drama",
+          "sciencefiction",
+          "thriller"
+        ]
+      }
+    },
+    {
+      "title": "Deadpool 2",
+      "year": 2018,
+      "media_type": "movie",
+      "status": "Watched",
+      "opinion": "Unrated",
+      "rating": null,
+      "notes": "",
+      "tmdb_id": 383498,
+      "poster_path": "/gyfPKfFYcVW54MoqhYlwwDDIfJR.jpg",
+      "taste_features": {
+        "version": 1,
+        "source": "movie:383498",
+        "genres": [
+          "action",
+          "adventure",
           "comedy"
         ]
       }
